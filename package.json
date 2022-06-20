@@ -1,5 +1,5 @@
 {
-  "name": "ZIM-MD",
+  "name": "RISKY-MD",
   "version": "1.2.3",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -72,7 +72,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zim-bot/zimbot-v3.git"
+    "url": "git+https://github.com/riskybotajadeh/zimbotw.git"
   },
   "bugs": {
     "url": "https://github.com/zim-bot/zimbot-v3/issues"
